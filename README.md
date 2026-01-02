@@ -1,3 +1,5 @@
+git push -u origin main
+
 # LeetCode Problem Solving 🚀
 
 This repository contains my solutions to **LeetCode problems**, implemented mainly in **C++**, and organized based on **problem-solving patterns**.
